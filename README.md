@@ -3,7 +3,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=tillstud&show_icons=true&theme=nightowl&hide_border=true" />
 
 
-I'm passionate about computers in general, but especially Security!
+I'm passionate about computers in general, but especially Security!\
 So I upload my projects here, often related to computer security.
 
 - 🔭 I’m currently working on [seccom](https://github.com/tillstud/secure-communication)
