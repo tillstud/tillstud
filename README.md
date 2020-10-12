@@ -4,6 +4,7 @@
 
 
 I'm passionate about computers in general, but especially Security!
+So I upload my projects here, often related to computer security.
 
 - 🔭 I’m currently working on [seccom](https://github.com/tillstud/secure-communication)
 - 🌱 I’m currently learning Python 3
