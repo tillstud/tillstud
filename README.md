@@ -7,8 +7,7 @@ I'm passionate about computers in general, but especially Security!\
 So I upload my projects here, often related to computer security.
 
 ### 📫 How to reach me:
-  - Discord: ti_ll#3228
-  - Twitter: ti_ll02
+  - E-Mail: 0sbdxpavx@relay.firefox.com
 
 
 <!--
