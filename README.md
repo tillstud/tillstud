@@ -1,6 +1,6 @@
 ### Hi there, I'm Till 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=tillstud&show_icons=true&theme=graywhite&hide_border=false" />
+<img src="https://github-readme-stats.vercel.app/api?username=tillstud&show_icons=true&theme=default&hide_border=false" />
 
 
 I'm passionate about computers in general, but especially about security!\
