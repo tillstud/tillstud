@@ -3,7 +3,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=tillstud&show_icons=true&theme=dark&hide_border=true" />
 
 I'm passionate about computers in general, but especially about security!\
-So I upload my projects here, often related to IT security.
+So I upload my projects here, often related to information security.
 
 ### 📫 How to reach me:
   - E-Mail: 0sbdxpavx@relay.firefox.com
