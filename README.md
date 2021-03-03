@@ -6,7 +6,7 @@ I'm passionate about computers in general, but especially about security!\
 So I upload my projects here, often related to information security.
 
 ### 📫 How to reach me:
-  - E-Mail: 0sbdxpavx@relay.firefox.com
+  - E-Mail: tillstud@gmail.com
 
 
 <!--
